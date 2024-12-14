@@ -1,0 +1,14 @@
+--> Loops are used to repeating statements multiple times;
+--> Loops provides code usability;
+--> By using loops we save times;
+--> It is used to traversing;
+
+
+--> Loop have multiple types:
+    * For Loop
+    * While Loop - Entry control Loop
+    * Do While Loop - Exit control Loop
+
+--> Loop has two main statements need:
+    * Condition statement
+    * Continous Updating statement

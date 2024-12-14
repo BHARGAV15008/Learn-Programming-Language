@@ -1,0 +1,25 @@
+This is Techno Genius
+01_Basic.sh
+02_Shebang.sh
+03_BuiltIn_Commands_Keywords.sh
+04_Color.sh
+05_Comments_Echo_PrintMultipleLines.sh
+06_Variables.sh
+07_Rules_Of_Naming_Variable.sh
+08_InputFromUser.sh
+09_CommandLineArguments.sh
+100_Question.sh
+10_StoredCommandsOutput.sh
+11_ReadOnlyVariable.sh
+12_StringManipulation.sh
+13_SetDefaultValueOfVariable.sh
+14_CheckVariable_PassedOrNot.sh
+15_ArithmeticOperators.sh
+16_Functions.sh
+17_PassArgumentsFunction.sh
+18_ScopesOfVariables.sh
+19_$questionMark_Test_Commands.sh
+20_If_Else_Statements.sh
+copiedDir
+copiedFiles.txt
+/d/ShellScripting

@@ -1,0 +1,2 @@
+Thanks {{Name}} for purchasing {{item}} from our outlet {{outlet}}.
+Please visit our outlet {{outlet}} for any kind of problems.
